@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>edureka</artifactId>
+	<artifactId>sunilChau</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>devops</name>
-	<description>DevOps By Keshav Kummari</description>
+	<description>DevOps By Sunil Chaudhari</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -40,9 +40,9 @@
 
 
 	<scm>
-		<connection>scm:git:git@github.com:keshavkummari/eduJavaProject.git</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/eduJavaProject.git</developerConnection>
-		<url>git@github.com:keshavkummari/eduJavaProject.git</url>
+		<connection>scm:git:git@github.com:vedangc/Mynewprojectsrepo.git</connection>
+		<developerConnection>scm:git:git@github.com:vedangc/Mynewprojectsrepo.git</developerConnection>
+		<url>git@github.com:vedangc/Mynewprojectsrepo.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
